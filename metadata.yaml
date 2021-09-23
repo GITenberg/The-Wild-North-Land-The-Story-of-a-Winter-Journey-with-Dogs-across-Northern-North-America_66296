@@ -1,5 +1,8 @@
 _repo: The-Wild-North-Land-The-Story-of-a-Winter-Journey-with-Dogs-across-Northern-North-America_66296
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66296-h/images/cover.jpg
 creator:
   author:
     agent_name: Butler, William Francis, Sir
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6035
     wikipedia: http://en.wikipedia.org/wiki/William_Francis_Butler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66296#The-Wild-North-Land-The-Story-of-a-Winter-Journey-with-Dogs-across-Northern-North-America
 gutenberg_issued: '2021-09-13'
 identifiers:
   gutenberg: '66296'
